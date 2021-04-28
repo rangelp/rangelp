@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## One day I will edit this :P
 
-![](https://komarev.com/ghpvc/?username=rangelp)
+![](https://komarev.com/ghpvc/?username=rangelp) <= hello my friends 😄
 
 <!--
 **rangelp/rangelp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
