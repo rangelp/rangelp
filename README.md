@@ -1,6 +1,8 @@
 ### Hi there 👋
 ## One day I will edit this :P
 
+![:name](https://count.getloli.com/get/@:rangelp)
+
 ![](https://komarev.com/ghpvc/?username=rangelp) <= hello my friends 😄
 
 <!--
