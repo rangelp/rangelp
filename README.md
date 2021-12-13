@@ -1,5 +1,4 @@
 
-![:name](https://count.getloli.com/get/@:rangelp)
 
 <!--
 **rangelp/rangelp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
